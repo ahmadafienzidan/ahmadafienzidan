@@ -1,23 +1,38 @@
-# Hi, I'm Afien 👋
+<h1 align="center">Ahmad 'Afien Zidan</h1>
+<p align="center">Frontend Engineer at Formulatrix Indonesia</p>
 
-Frontend Engineer at **Formulatrix Indonesia**, based in Surabaya.
-I build TypeScript and React interfaces, and outside work I turn everyday habits — tracking spending, dialing in coffee, practicing magic — into small, focused apps.
+<p align="center">
+  <a href="https://id.linkedin.com/in/ahmad-afien-zidan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-Before moving into software I studied automotive electric vehicle engineering.
+I write React and TypeScript for a living. I studied EV engineering, then got hooked on building web apps and never really stopped.
 
-**Frontend:** TypeScript · React · TanStack Query / Router · Zustand · Apollo Client · Tailwind CSS · Playwright
-**Also comfortable with:** Node.js · GraphQL · Prisma · PostgreSQL · SQLite
+Most of my side projects start from something I already do. I brew coffee, so I made a journal for my recipes. I practice card magic, so I made a place to keep my routines. I kept forgetting where my money went, so now I just text a bot.
 
-## Side projects
+### Stack
 
-| Project | What it is | Built with |
-|---|---|---|
-| [**Sleightbook**](https://github.com/ahmadafienzidan/sleightbook) | Personal magic knowledge base with an interactive routine visualizer. | TypeScript, React, Bun, Playwright |
-| [**Flavorium**](https://github.com/ahmadafienzidan/flavorium) | Coffee experiment journal — log grind, ratio, temperature and tasting notes to find the best recipe for each bean. | TanStack Start, Apollo Client, GraphQL, Prisma |
-| [**SpendChat**](https://github.com/ahmadafienzidan/spendchat) | Expense tracker you talk to: log spending by chatting a WhatsApp bot, review it in a web dashboard. | TypeScript, Node.js, SQLite |
-| [**WPU Cafe**](https://github.com/ahmadafienzidan/wpu-cafe) | Order management app for a café: menu, cart and orders. | React, TypeScript, Zustand, React Query |
-| [**ARIMA Game Store**](https://github.com/ahmadafienzidan/FE-ARIMAGameStore) · [live](https://arima-game-store.netlify.app) | Online game store frontend, built as a 4-person team final project. | React, Vite, Tailwind, Hero UI |
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,vite,graphql,nodejs,prisma,postgres,bun" alt="TypeScript, React, Tailwind, Vite, GraphQL, Node.js, Prisma, PostgreSQL, Bun" />
+</p>
 
-## Elsewhere
+### Things I've built
 
-[LinkedIn](https://id.linkedin.com/in/ahmad-afien-zidan)
+**[Sleightbook](https://github.com/ahmadafienzidan/sleightbook)**\
+My magic notebook. Routines, sleights, and a visualizer that steps through a routine move by move.\
+`React` `TypeScript` `Bun` `Playwright`
+
+**[Flavorium](https://github.com/ahmadafienzidan/flavorium)**\
+Coffee brew log. Grind size, ratio, water temp, how it tasted. Over time it shows which recipe works best for each bag of beans.\
+`TanStack Start` `Apollo` `GraphQL` `Prisma`
+
+**[SpendChat](https://github.com/ahmadafienzidan/spendchat)**\
+Expense tracker on WhatsApp. Send `kopi 18k` and it's logged. There's a web dashboard for the monthly view.\
+`TypeScript` `Node.js` `SQLite`
+
+**[WPU Cafe](https://github.com/ahmadafienzidan/wpu-cafe)**\
+Café ordering app with menu, cart and orders. Built during WPU Ramadhan Bootcamp 2025.\
+`React` `Zustand` `React Query`
+
+**[ARIMA Game Store](https://github.com/ahmadafienzidan/FE-ARIMAGameStore)** · [live](https://arima-game-store.netlify.app)\
+Game store frontend we built as a team for our Sanbercode final project.\
+`React` `Vite` `Tailwind` `Hero UI`
