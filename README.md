@@ -21,10 +21,6 @@ Most of my side projects start from something I already do. I brew coffee, so I 
 My magic notebook. Routines, sleights, and a visualizer that steps through a routine move by move.\
 `React` `TypeScript` `Bun` `Playwright`
 
-**[Flavorium](https://github.com/ahmadafienzidan/flavorium)**\
-Coffee brew log. Grind size, ratio, water temp, how it tasted. Over time it shows which recipe works best for each bag of beans.\
-`TanStack Start` `Apollo` `GraphQL` `Prisma`
-
 **[SpendChat](https://github.com/ahmadafienzidan/spendchat)**\
 Expense tracker on WhatsApp. Send `kopi 18k` and it's logged. There's a web dashboard for the monthly view.\
 `TypeScript` `Node.js` `SQLite`
@@ -36,3 +32,7 @@ Café ordering app with menu, cart and orders. Built during WPU Ramadhan Bootcam
 **[ARIMA Game Store](https://github.com/ahmadafienzidan/FE-ARIMAGameStore)** · [live](https://arima-game-store.netlify.app)\
 Game store frontend we built as a team for our Sanbercode final project.\
 `React` `Vite` `Tailwind` `Hero UI`
+
+**[Flavorium](https://github.com/ahmadafienzidan/flavorium)** *(in progress)*\
+A brew log I'm building for my coffee. Grind size, ratio, water temp, how it tasted, so I can find the best recipe for each bag of beans.\
+`TanStack Start` `Apollo` `GraphQL` `Prisma`
